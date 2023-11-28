@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximun-scale=1" />
 
     <!-- Estilos -->
     <link
@@ -11,7 +11,9 @@
     />
     <link rel="stylesheet" href="./assets/fonts/poppins/poppins.css" />
     <link rel="stylesheet" href="./assets/css/reset.css" />
+    <link rel="stylesheet" href="./assets/css/scroll.css" />
     <link rel="stylesheet" href="./assets/css/styles.css" />
+    <link rel="stylesheet" href="./assets/css/responsive.css" />
 
     <title>Portafolio - Jose Carmona</title>
   </head>
@@ -39,7 +41,7 @@
           <nav class="layout__menu">
             <ul class="menu__list">
               <li class="menu__option">
-                <a href="index.html" class="menu__link">
+                <a href="index.html" class="menu__link menu__link--active">
                   <i class="fa-solid fa-house menu__icon"></i>
                   <span class="menu__overlay">Home</span>
                 </a>
@@ -55,7 +57,7 @@
               <li class="menu__option">
                 <a href="estudios.html" class="menu__link">
                   <i class="fa-solid fa-graduation-cap menu__icon"></i>
-                  <span class="menu__overlay">Estudios</span>
+                  <span class="menu__overlay">Curriculum</span>
                 </a>
               </li>
 
@@ -122,6 +124,12 @@
           </footer>
         </section>
       </aside>
+
+      <!-- Menú responsive -->
+      <div class="layout__menu-toggle">
+        <i class=" menu-toggle__icon fa-solid fa-bars"></i>
+        <i class=" menu-toggle__icon fa-solid fa-xmark"></i>
+      </div>
 
       <!-- Contenido principal -->
       <main class="layout__content">
