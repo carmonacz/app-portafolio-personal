@@ -10,10 +10,10 @@ El portafolio consta de las siguientes secciones:
 - Una breve introducción y visión general del portafolio.
 
 ### 2. Sobre mí
-- Información detallada sobre quién soy, mis habilidades y experiencia.
+- Información detallada sobre quién soy, lo que hago, reseñas, clientes y precios de servicios que ofrezco.
 
 ### 3. Curriculum
-- Detalles sobre mi formación académica y experiencia laboral.
+- Detalles sobre mi formación académica, experiencia laboral, mis habilidades y certificados.
 
 ### 4. Portafolio
 - Muestra de proyectos destacados con descripciones y enlaces.
