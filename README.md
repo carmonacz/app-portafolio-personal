@@ -39,15 +39,15 @@ El portafolio consta de las siguientes secciones:
 
 ## Capturas de pantalla
 
-![Inicio](screenshots/inicio.png)
-![Sobre mí](screenshots/sobre-mi.png)
-![Portafolio](screenshots/portafolio.png)
+![Inicio](https://netcarmona.es/imagenes/inicio.jpg)
+![Sobre mí](https://netcarmona.es/imagenes/sobre-mi.jpg)
+![Curriculum](https://netcarmona.es/imagenes/curriculum.jpg)
+![Portafolio](https://netcarmona.es/imagenes/portafolio.jpg)
+![Blog](https://netcarmona.es/imagenes/blog.jpg)
+![Contacto](https://netcarmona.es/imagenes/contacto.jpg)
 
 ## Contribuciones
 
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias, por favor crea un issue o envía un pull request.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles.
 
